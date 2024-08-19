@@ -3,8 +3,8 @@
 """
 FlaHMM.py - A tool for flam-like cluster predictions based on LTR/Gypsy transposon content.
 """
-__version__ = "0.9.1-beta"
-_licence_ = "MIT License"
+__version__ = "1.0.0"
+__licence__ = "MIT License"
 
 import os
 import sys

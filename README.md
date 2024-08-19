@@ -57,7 +57,7 @@ Running FlaHMM with the command above would give the following results
 ```
 $ python FlaHMM.py  --species Dmel.dm6 --bins 5 --threshold .025
 =========================================================================================
-FlaHMM v0.9.1-beta
+FlaHMM v1.0.0
 
 A tool for flam-like cluster predictions based on LTR/Gypsy transposon content.
 
